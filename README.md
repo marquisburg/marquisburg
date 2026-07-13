@@ -18,7 +18,7 @@ The backend is split into a standalone, frontend-agnostic library, [`mettle-core
 
 ## Upstream and open source
 
-- MLIR crash fix merged upstream into llvm-project (set up a full Windows MSVC build of llvm-project for it)
+- MLIR crash fix merged upstream into llvm-project (will be doing some more work there in the future)
 
 ## Tools of the trade
 
