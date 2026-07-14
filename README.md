@@ -30,10 +30,6 @@ The backend is split into a standalone, frontend-agnostic library, [`mettle-core
 
 Compilers, IR design, code generation, GPU programming, LLM inference internals, and low-level systems work.
 
-## Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marquisburg&layout=compact&langs_count=8&cache_seconds=86400)
-
 ## Off the clock
 
 Member of the SAWMGA and 3 time tournament winner on my Clydesdale-Boerperd, Wallace. StarCraft 2 (Protoss) and Overwatch 2 (Reinhardt). Four dachshunds.
